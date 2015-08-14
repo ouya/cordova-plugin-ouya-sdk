@@ -42,6 +42,7 @@
 		
         <source-file src="src/android/CordovaOuyaPlugin.java" target-dir="src/tv/ouya/sdk" />
 		<source-file src="src/android/DebugInput.java" target-dir="src/tv/ouya/sdk" />
+		<source-file src="src/android/MainActivity.java" target-dir="src/tv/ouya/sdk" />
 		<source-file src="src/android/OuyaInputView.java" target-dir="src/tv/ouya/sdk" />
 
         <js-module src="ouya-sdk.js" name="OuyaSDK">
