@@ -38,7 +38,7 @@
             </feature>
         </config-file>
 
-		<source-file src="libs/ouya-sdk.jar" target-dir="../libs/ouya-sdk.jar" />
+		<source-file src="libs/ouya-sdk.jar" target-dir="../libs" />
 		
         <source-file src="src/android/CordovaOuyaPlugin.java" target-dir="tv/ouya/sdk" />
 		<source-file src="src/android/DebugInput.java" target-dir="tv/ouya/sdk" />
