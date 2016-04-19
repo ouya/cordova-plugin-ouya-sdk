@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package tv.ouya.sdk.MainActivity;
+package tv.ouya.sdk;
 
 import android.content.Intent;
 import android.os.Bundle;
